@@ -1,4 +1,3 @@
--- local beacon_item = data.raw["item"]["beacon"]
 data.raw["rail-planner"]["rail"].icon = "__space-exploration-graphics__/graphics/icons/space-rail.png"
 data.raw["straight-rail"]["straight-rail"].icon = "__space-exploration-graphics__/graphics/icons/space-rail.png"
 
