@@ -1,0 +1,9 @@
+{
+    "name": "space-rail-replacer",
+    "version": "0.1.0",
+    "title": "Space Rail Replacer",
+    "author": "SternguardJake",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1", "space-exploration-graphics >= 0.6", "! space-exploration"],
+    "description": "Replaces regular Rail sprites with SE Space rails."
+  }
